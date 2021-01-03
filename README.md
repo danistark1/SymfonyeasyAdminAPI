@@ -1,1 +1,1 @@
-# symfonyEasyAdminApi
+# SymfonyeasyAdminAPI
